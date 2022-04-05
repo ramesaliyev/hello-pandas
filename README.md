@@ -14,6 +14,7 @@ These are the notebooks I've created while following the DataCamp's [Data Manipu
 ##### Chapter 2: Aggregating DataFrames
 
 - [04- Summary Statistics](./04-%20Summary%20Statistics.ipynb)
+- [05- Counting](./05-%20Counting.ipynb)
 
 ---
 
