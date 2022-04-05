@@ -15,7 +15,7 @@ These are the notebooks I've created while following the DataCamp's [Data Manipu
 
 - [04- Summary Statistics](./04-%20Summary%20Statistics.ipynb)
 - [05- Counting](./05-%20Counting.ipynb)
-
+- [06- Grouped Summary Statistics](./06-%20Grouped%20Summary%20Statistics.ipynb)
 ---
 
 ## Python Env Setup
