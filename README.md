@@ -21,6 +21,7 @@ These are the notebooks I've created while following the DataCamp's [Data Manipu
 ##### Chapter 3: Slicing and Indexing DataFrames
 
 - [08- Explicit Indexes](./08-%20Explicit%20Indexes.ipynb)
+- [09- Slicing and Subsetting with `loc` and `iloc`](./09-%20Slicing%20and%20Subsetting%20with%20loc%20and%20iloc.ipynb)
 
 ## Python Env Setup
 
