@@ -18,6 +18,10 @@ These are the notebooks I've created while following the DataCamp's [Data Manipu
 - [06- Grouped Summary Statistics](./06-%20Grouped%20Summary%20Statistics.ipynb)
 - [07- Pivot Tables](./07-%20Pivot%20Tables.ipynb)
 
+##### Chapter 3: Slicing and Indexing DataFrames
+
+- [08- Explicit Indexes](./08-%20Explicit%20Indexes.ipynb)
+
 ## Python Env Setup
 
 #### First Setup
