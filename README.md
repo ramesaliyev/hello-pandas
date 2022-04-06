@@ -22,6 +22,7 @@ These are the notebooks I've created while following the DataCamp's [Data Manipu
 
 - [08- Explicit Indexes](./08-%20Explicit%20Indexes.ipynb)
 - [09- Slicing and Subsetting with `loc` and `iloc`](./09-%20Slicing%20and%20Subsetting%20with%20loc%20and%20iloc.ipynb)
+- [10- Working with Pivot Tables](./10-%20Working%20with%20Pivot%20Tables.ipynb)
 
 ## Python Env Setup
 
