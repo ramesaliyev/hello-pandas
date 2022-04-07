@@ -1,6 +1,6 @@
 # Hello [Pandas](https://pandas.pydata.org/)
 
-These are the notebooks I've created while following the DataCamp's [Data Manipulation with Python](https://app.datacamp.com/learn/skill-tracks/data-manipulation-with-python) track.
+These are the notebooks I've created while following the DataCamp's [Data Manipulation with Python](https://www.datacamp.com/tracks/data-manipulation-with-python) track.
 
 ---
 
